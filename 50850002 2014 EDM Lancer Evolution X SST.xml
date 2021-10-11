@@ -64,7 +64,7 @@
 
 	<table name="DTC P1234 0x0028 -> 0xFFFF Throttle position sensor (sub) plausibility" address="54a14"/>
 
-	<table name="ECU ID" address="5002a"/>
+	<table name="ECU ID" address="5002e"/>
 
 	<table name="High Octane Timing Map" address="55957">
 		<table name="Load" address="61826"/>
