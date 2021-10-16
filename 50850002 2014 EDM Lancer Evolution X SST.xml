@@ -48,11 +48,13 @@
 
 	<table name="MAP based Load Calc #3 2010" address="602aa"/>
 
-	<table name="Mode 23 - IFMode 0x05 -> 0x23 #1" address="7f797"/>
+	<table name="Mode 23 - IFMode 0x05 -> 0x23 #1" address="7f9cb"/>
 
-	<table name="Mode 23 - IFMode 0x05 -> 0x23 #2" address="8aec3"/>
+	<table name="Mode 23 - IFMode 0x05 -> 0x23 #2" address="8b093"/>
 
-	<table name="ASC OFF, SST OFF Fix 0x00E9 -> 0x0100" address="53b12"/>
+	<table name="Mode 23 - DoMode 0x42 -> 0x52" address="8b0be"/>
+
+	<table name="ASC OFF, SST OFF Fix 0x00E9 -> 0x0100" address="53cd0" level="1"/>
 
 	<table name="DTC P1238 0x0384 -> 0xFFFF Mass airflow sensor plausibility (Torque Monitor)" address="63be8"/>
 
@@ -610,7 +612,7 @@
 	</table>
 
 	<table name="Knock Background Noise Multiplier" address="5a04c">
-		<table name="RPM" address="6232e"/>
+		<table name="RPM" address="624d4"/>
 	</table>
 
 	<table name="Knock Background Noise Adder (SINGLE GAIN) #1" address="60290">
